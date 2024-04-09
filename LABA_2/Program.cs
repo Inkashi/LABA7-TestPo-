@@ -19,7 +19,7 @@ namespace MyFuncLib
             return result;
         }
 
-
+        //Косинус по тайлору
         public static double CosTaylor(double x)
         {
             if (x > 4 || x < -4)
